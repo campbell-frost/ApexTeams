@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-main>
-      <HelloWorld />
+      <Apex />
     </v-main>
   </v-app>
 </template>
